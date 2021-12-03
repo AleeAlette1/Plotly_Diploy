@@ -6,4 +6,9 @@ The purpose of this project was to build an interactive dashboard to explore the
 ## Results
 The Belly Button Biodiversity dataset reveals that a small handful of micobial species (refered to as operational taxonomic units, OTUs) were present in more than 70% of people, while the rest were relatively rare. 
 
+<<<<<<< HEAD
 View deployment page here. 
+=======
+View deployment page here
+https://aleealette1.github.io/Plotly_Diploy/
+>>>>>>> 81ae5179efe50b71804f63008dc166375c74de63
